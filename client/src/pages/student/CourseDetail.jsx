@@ -83,6 +83,8 @@ const CourseDetail = () => {
           <Card>
             <CardContent className="p-4 flex flex-col">
               <div className="w-full aspect-video mb-4">
+
+                {/* video will come here */}
                 <ReactPlayer
                   width="100%"
                   height={"100%"}
